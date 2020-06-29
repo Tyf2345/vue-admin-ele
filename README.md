@@ -2,7 +2,11 @@
 
 ### 前言
   一个以Nodejs为后台的开箱即用的Vue+Element后台管理系统，这个系统一共有十六个页面， 包括登录/登出、首页、图表，个性化设置、个人中心、富文本等，技术的话，涉及到了Vue的方方面面，是一个完整的流程。目前这个项目前端部分已经写完了，正在进行一些性能的优化和代码的详细注释。
+  
+### Vue3.x 项目: [传送阵](https://github.com/Tyf2345/vue3.x-admin)
+
 ### demo: [传送阵](http://114.215.147.221:8087)
+
 ### 技术栈
   ```js
     Vue + Element + Axios  + vue-router + Vuex + vuex-persistedstate + ES6/7 + Vue-color + Less + Echarts + mavon-editor
